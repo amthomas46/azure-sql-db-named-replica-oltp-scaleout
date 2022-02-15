@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Change this if you are using your own github repository
-gitSource="https://github.com/Azure-Samples/azure-sql-db-named-replica-oltp-scaleout"
+gitSource="https://github.com/amthomas46/azure-sql-db-named-replica-oltp-scaleout"
 
 # Load values from .env file or create it if it doesn't exists
 FILE=".env"
